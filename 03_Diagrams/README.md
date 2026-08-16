@@ -1,3 +1,3 @@
-# Diagrams
+# 03 Diagrams
 
-Architecture diagrams, attack flow diagrams, and conceptual illustrations.
+Supporting material for Task 1.
